@@ -14,7 +14,7 @@ cicd_runner_project_id = "dummy-agentic"
 host_connection_name = "DummyAgentGHConnector"
 
 # Name of the repository you added to Cloud Build
-repository_name = "repo-dummy-agent"
+repository_name = "gagan0123-dummy-agent"
 
 # The Google Cloud region you will use to deploy the infrastructure
 region = "us-central1"
