@@ -11,7 +11,7 @@ staging_project_id = "dummy-agentic"
 cicd_runner_project_id = "dummy-agentic"
 
 # Name of the host connection you created in Cloud Build
-host_connection_name = "git-dummy-agent"
+host_connection_name = "DummyAgentGHConnector"
 
 # Name of the repository you added to Cloud Build
 repository_name = "repo-dummy-agent"
